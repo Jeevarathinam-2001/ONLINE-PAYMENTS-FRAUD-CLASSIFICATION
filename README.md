@@ -28,4 +28,4 @@ Evaluation metrics used
 4) F1 Score
 5) Log Loss
 
-By comparing the five different evaluation metrics for each model we come to the conclusion that XG Boost Classifier is the best model for classification of the big dataset.
+By comparing the five different evaluation metrics for each model we come to the conclusion that both XG Boost Classifier and Random forest Classifiers are the best models for classification of the big dataset.
